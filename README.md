@@ -1,2 +1,4 @@
 # SCMA-codebook-for-paper-Hu-
-SCMA codebook for paper (Hu codebooks)
+SCMA codebooks for paper "One-stage SCMA Codebook Design with BER Criteria"
+
+
